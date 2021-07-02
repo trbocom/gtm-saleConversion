@@ -1,0 +1,5 @@
+homepage: "https://trbo.com"
+documentation: "https://charger-v2.trbo.com/integration/gtm/28/12611/e0b697de078dd225bef1d716cff3df8f/de"
+versions:
+  - sha: 6adb69a6f405711082e5f6a77018061ea7a7d48c
+    changeNotes: Initial release.
